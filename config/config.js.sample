@@ -87,6 +87,10 @@ var config = {
 				showPublishDate: true
 			}
 		},
+		{
+			module: "slack-announcements",
+			position: "top_right",
+		}
 	]
 
 };
